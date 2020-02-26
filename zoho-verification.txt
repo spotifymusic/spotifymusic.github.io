@@ -1,1 +1,2 @@
 zmverify.zoho.com
+@ / Blank v=spf1 include:zoho.com ~all
